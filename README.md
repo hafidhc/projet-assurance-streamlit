@@ -10,7 +10,8 @@ You can test the live application here:
 
 ## 📸 Application Preview
 
-![Application Preview](https://imgur.com/a/jQmJtjm) 
+![Application Preview](https://i.imgur.com/gKj3tA0.png)
+
 
 ## 🛠️ Tech Stack
 
