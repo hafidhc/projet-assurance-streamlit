@@ -116,8 +116,9 @@ if st.sidebar.button("Prédire la Charge du Sinistre", type="primary"):
     else:
         st.success("Charge standard estimée.")
 
+
 else:
     st.info("Veuillez saisir les paramètres dans le panneau de gauche et cliquer sur 'Prédire'.")
 
 st.markdown("---")
-st.caption("Projet réalisé par [Ton Nom] - [Ton École/Université] - [Année]")
+st.caption("Projet réalisé par HAFID HCHCHOUM - MATU ASSURANCE - 2025")
